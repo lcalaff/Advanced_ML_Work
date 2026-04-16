@@ -1,4 +1,5 @@
 *.docx
+*.csv
 Git_Code/Kaggle Homework Lucas lucascalaff206/catboost_info/catboost_training.json
 Git_Code/Kaggle Homework Lucas lucascalaff206/catboost_info/learn_error.tsv
 .gitignore
